@@ -82,5 +82,5 @@ Contact Details
 
 - H/P: +60166611428
 - Email: robotys@gmail.com
-- Github: github.com/roboty
-- Facebook: facebook.com/robotys
+- Github: [github.com/robotys](http://github.com/robotys)
+- Facebook: [facebook.com/robotys](http://facebook.com/robotys)
