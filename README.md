@@ -21,6 +21,9 @@ Phase two: Reduce the BI processing time from more than 1 hour to 10 minutes via
 
 Phase Three: Smart reporting where the system can flag which book to be reprinted and which one to be discontinued based on sales performance and previous book in genre trends. Done with very crude machine learning written in PHP. Simple algo to find pattern of 'dead' book and 'trending' book via its sales momentum. The algo basically based on Acceleration formula from physics, which suite just nice with sales momentum graph of book sales.
 
+This reporting has made millions savings to the company as told by the chairman below:
+
+![Selamat Dari Rugi Berjuta](ainon-elak-rugi.png)
 
 **Xentral Methods Sdn Bhd, 19 Sep 2013 - current, Senior IT Developer**
 
